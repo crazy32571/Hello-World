@@ -1,3 +1,1 @@
-# hello-world
-Exploring 
-New ideas and learning 
+# idle-empire-miner-releases
